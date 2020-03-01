@@ -1,8 +1,9 @@
 +++
-About_Project = ""
+About_Project = "testign"
+Title = "Title"
 Title_of_the_project = ""
-color = ""
+color = "#B04A4A"
 draft = true
 
 +++
-**Test**
+{{< youtube ynmCgpaArOc >}}
