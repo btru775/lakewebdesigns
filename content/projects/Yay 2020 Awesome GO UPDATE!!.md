@@ -1,5 +1,6 @@
 +++
 About_Project = "I Updated my portfolio for 2020!! I gone a lone way!!  "
+Title = "Testing"
 Title_of_the_project = "GO Docker Portfolio for 2020!!"
 article1 = "I finally rebuilt the portfolio in go. I gone a long way in the last few years I LOVE GO!!"
 color = "#757171"
