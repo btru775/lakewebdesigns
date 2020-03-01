@@ -15,5 +15,3 @@ fields:
     required: false
     color_format: Hex
   description: color
-pages:
-- content/projects/Yay 2020 Awesome GO UPDATE!!.md
