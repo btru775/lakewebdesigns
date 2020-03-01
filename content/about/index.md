@@ -31,6 +31,10 @@ I'm basically a doctor of internet things now. I also have been working professi
 
 I made this site with GO
 
-![](https://res.cloudinary.com/practicaldev/image/fetch/s--J3E8KS70--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AE33brkN6zivLSb-D9i-CdQ.png)
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--J3E8KS70--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1024/1%2AE33brkN6zivLSb-D9i-CdQ.png "GO Dockers BFF ")
 
-I love to code .......
+I put this portfolio together to be able to create a platform to show how I solve things. Check out my projects and post for more of what I do.
+
+###### Lets code together,
+
+##### Brandon 
