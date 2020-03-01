@@ -23,7 +23,7 @@ I used to think I had swag. Little did I know the journey that coding would end 
 
 ![Dr.Who](https://i.ytimg.com/vi/MAYeJgRfhV4/maxresdefault.jpg "I feel like this guy")
 
-I'm basically a doctor of internet things know. I also have been working professionally in IT for a few years now and learned a shit ton of basic CPU, data-basing, networking, server maintenance, and all the boring stuff too.
+I'm basically a doctor of internet things now. I also have been working professionally in IT for a few years now and learned a shit ton of basic CPU, data-basing, networking, server maintenance, and all the boring stuff too.
 
 ![jobstress](https://i.ytimg.com/vi/Zib2jAuMw_0/hqdefault.jpg "Took me 10 hours to write that fuckn report IQUIT!!")
 
