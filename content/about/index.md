@@ -19,4 +19,12 @@ I been at this for a while and also add my expertise and life experience into th
 
 ![frankenstien](https://i.ytimg.com/vi/FwWOt-gYarg/maxresdefault.jpg "Im a little bit of everything!")
 
+I used to think I had swag. Little did I know the journey that coding would end up taking me through. I started with just a few HTML tags here and there to new what I would consider essential knowledge in today's IOT's world. Everything from front end HTML CSS to JavaScript, Back-end JavaScript, Python, Django, Docker, and Go formerly Golang. 
+
+![Dr.Who](https://i.ytimg.com/vi/MAYeJgRfhV4/maxresdefault.jpg "I feel like this guy")
+
+Im basically a doctor of internet things know. I also have been working professionally in IT for a few years now and learned a shit ton of basic cpu, databasing, networking, server maintenance, and all the boring stuff too.
+
+![jobstress](https://i.ytimg.com/vi/Zib2jAuMw_0/hqdefault.jpg "Took me 10 hours to write that fuckn report IQUIT!!")
+
 I love to code .......
