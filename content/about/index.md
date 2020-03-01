@@ -27,4 +27,6 @@ I'm basically a doctor of internet things now. I also have been working professi
 
 ![jobstress](https://i.ytimg.com/vi/Zib2jAuMw_0/hqdefault.jpg "Took me 10 hours to write that fuckn report IQUIT!!")
 
+### Don't be this guy. 
+
 I love to code .......
