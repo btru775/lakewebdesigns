@@ -24,4 +24,5 @@ fields:
   label: Description
   description: description
 pages:
+- content/about.md
 - content/post/welcome-to-my-portfolio.md
