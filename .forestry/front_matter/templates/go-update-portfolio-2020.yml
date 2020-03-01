@@ -8,21 +8,11 @@ fields:
     required: false
   label: Title
   description: Title
-- name: date
-  type: datetime
-  label: Date
-  description: ''
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
-- name: description
+- name: slug
   type: text
   config:
     required: false
-  label: Description
-  description: description
+  description: slug
+  label: Slug
 pages:
-- content/about.md
 - content/post/welcome-to-my-portfolio.md
