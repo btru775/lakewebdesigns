@@ -23,3 +23,5 @@ fields:
     required: false
   label: Description
   description: description
+pages:
+- content/post/welcome-to-my-portfolio.md
