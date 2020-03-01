@@ -18,3 +18,5 @@ fields:
       format: markdown
   label: Article1
   description: Story of First GO Project Portfolio
+pages:
+- content/projects/Yay 2020 Awesome GO UPDATE!!.md
