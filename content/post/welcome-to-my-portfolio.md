@@ -1,7 +1,6 @@
 +++
 date = 2020-02-29T08:00:00Z
 description = "New Website "
-draft = true
 title = "Welcome to My Portfolio"
 
 +++

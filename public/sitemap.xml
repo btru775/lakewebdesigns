@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:8080/projects/</loc>
+    <lastmod>2020-02-29T22:56:28-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/about/</loc>
+    <lastmod>2020-02-29T15:53:57-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/contact/</loc>
+    <lastmod>2020-02-29T15:53:57-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/</loc>
+    <lastmod>2020-02-29T15:53:57-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/post/</loc>
+    <lastmod>2020-02-29T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/post/_raury/</loc>
+    <lastmod>2020-02-29T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/post/welcome-to-my-portfolio/</loc>
+    <lastmod>2020-02-29T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/series/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/tags/</loc>
+  </url>
+  
+</urlset>
