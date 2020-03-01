@@ -7,4 +7,6 @@ color = "#757171"
 yay_2020_in_full_effect = "GO Update for the Portfolio Awesome Stuff "
 
 +++
+{{<title>}}
+
 ![](https://cdn-images-1.medium.com/max/1600/1*JfSp7LWmVE1nj15IrxWSWQ.png)
