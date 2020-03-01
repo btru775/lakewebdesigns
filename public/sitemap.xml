@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://localhost:8080/about/</loc>
+    <lastmod>2020-03-01T09:16:26-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:8080/about/about/</loc>
+    <lastmod>2020-03-01T09:16:26-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:8080/</loc>
     <lastmod>2020-02-29T22:56:28-08:00</lastmod>
   </url>
@@ -23,13 +33,17 @@
   </url>
   
   <url>
+    <loc>http://localhost:8080/post/_raury/</loc>
+    <lastmod>2020-02-29T08:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:8080/post/welcome-to-my-portfolio/</loc>
     <lastmod>2020-02-29T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/about/</loc>
-    <priority>0</priority>
+    <loc>http://localhost:8080/about/baseof/</loc>
   </url>
   
   <url>
