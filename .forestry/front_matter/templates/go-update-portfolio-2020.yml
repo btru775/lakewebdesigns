@@ -1,4 +1,20 @@
 ---
 label: GO Update Portfolio 2020!!
 hide_body: false
-fields: []
+fields:
+- name: yay_2020_in_full_effect
+  type: text
+  config:
+    required: false
+  label: Yay 2020 In Full Effect
+  description: Title
+- name: article1
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Article1
+  description: Story of First GO Project Portfolio
