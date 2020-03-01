@@ -8,13 +8,6 @@ fields:
     required: false
   label: Title
   description: Title
-- name: description
-  type: color
-  config:
-    required: false
-    color_format: Hex
-  description: description
-  label: Description
 - name: date
   type: datetime
   label: Date
@@ -24,3 +17,9 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
+  description: description
