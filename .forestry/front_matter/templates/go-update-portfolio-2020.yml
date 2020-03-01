@@ -8,10 +8,19 @@ fields:
     required: false
   label: Title
   description: Title
-- name: color
+- name: description
   type: color
-  label: Color
   config:
     required: false
     color_format: Hex
-  description: color
+  description: description
+  label: Description
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
