@@ -2,22 +2,12 @@
 label: Project Template
 hide_body: false
 fields:
-- name: Title
+- name: title
   type: text
   config:
     required: false
   label: Title
   description: Title
-- name: About_Project
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  description: Project Info
-  label: About Project
 - name: color
   type: color
   label: Color
