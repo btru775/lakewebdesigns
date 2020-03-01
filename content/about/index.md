@@ -15,7 +15,7 @@ with blazing speeds of 28.8k modems.
 
 I remember those days. I fist put together a website with angel fire and used HTML Tables to fit a structured website on Netscape!!
 
-I been at this for a while and also add my expertise and life experince into the mix.
+I been at this for a while and also add my expertise and life experience into the mix.
 
 ![frankenstien](https://i.ytimg.com/vi/FwWOt-gYarg/maxresdefault.jpg "Im a little bit of everything!")
 
