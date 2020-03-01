@@ -1,14 +1,14 @@
 ---
-label: GO Update Portfolio 2020!!
+label: Project Template
 hide_body: false
 fields:
-- name: yay_2020_in_full_effect
+- name: Title_of_the_project
   type: text
   config:
     required: false
-  label: Yay 2020 In Full Effect
+  label: Title
   description: Title
-- name: article1
+- name: About_Project
   type: textarea
   default: ''
   config:
@@ -16,7 +16,14 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: Article1
-  description: Story of First GO Project Portfolio
+  description: Project Info
+  label: About Project
+- name: color
+  type: color
+  label: Color
+  config:
+    required: false
+    color_format: Hex
+  description: color
 pages:
 - content/projects/Yay 2020 Awesome GO UPDATE!!.md
