@@ -6,4 +6,4 @@ title = "Juice World"
 +++
 RIP Juice
 
-{{ youtube mzB1VGEGcSU }}
+{{< youtube mzB1VGEGcSU >}}
