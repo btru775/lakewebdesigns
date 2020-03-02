@@ -1,105 +1,79 @@
-baseurl = "http://www.example.com"
-title = "LakeWebdesigns"
+theme = "soho"
+baseURL = "https://lakewebdesigns.xyz"
+title = "Lake Web Designs"
+languageCode = "en"
+enableInlineShortcodes = true
+staticDir = "static"
 
-theme = "hugo-coder"
-
-languagecode = "en"
-defaultcontentlanguage = "en"
-
-paginate = 20
-canonifyurls = true
-
-pygmentsstyle = "b2"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-
-disqusShortname = "BTru"
+summarylength = 10
+enableEmoji = true
 
 [params]
-    author = "Brandon Trujillo"
-    description = "Brandon Trujillo's Portfolio Website"
-    keywords = "Devops,Fullstack,People Person"
-    info = "Full Stack DevOps and Go Dev"
-    avatarurl = "images/avatar.jpg"
-    footercontent = "Welcome to my site!"
+author = "Brandon Trujillo"
+description = "My Portfolio"
 
-    dateformat = "January 2, 2006"
+## Set one of:
+# gravatar = "contact@lakewebdesigns.xyz"
+profilePicture = "images/avatar.jpg"
 
-    hideCredits = true
-    hideCopyright = true
-    since = 2019
+copyright = "Brandon Trujillo"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
 
-    # Git Commit in Footer, uncomment the line below to enable it.
-    #commit = "https://github.com/luizdepra/hugo-coder/tree/"
+## Set custom theme color.
+ themeColor = "#fc2803"
 
-    rtl = false
-
-    # Specify light/dark colorscheme
-    # Supported values:
-    # "auto" (use preference set by browser)
-    # "dark" (dark background, light foreground)
-    # "light" (light background, dark foreground) (default)
-    colorscheme = "auto"
-
-    # Series see also post count
-    maxSeeAlsoItems = 5
-
-    # Custom CSS
-    custom_css = []
-
-    # Custom JS
-    custom_js = []
-
-# If you want to use fathom(https://usefathom.com) for analytics, add this section
-[params.fathomAnalytics]
-    siteID = "ABCDE"
-    # Default value is cdn.usefathom.com, overwrite this if you are self-hosting
-    serverURL = "analytics.example.com"
-
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-
-[[params.social]]
-    name = "Github"
-    icon = "fab fa-github"
-    weight = 1
-    url = "https://github.com/btru775"
-[[params.social]]
-    name = "LinkedIn"
-    icon = "fab fa-linkedin"
-    weight = 4
-    url = "https://www.linkedin.com/in/brandon-trujillo-262aa853/"
-[[params.social]]
-    name = "Medium"
-    icon = "fab fa-medium"
-    weight = 5
-    url = "https://medium.com/@brandontrujillo_23139"
+## Set custom CSS and/or JS to override site defaults.
+customCss = ["css/blog.css"]
+#customJs = ["js/blog.js"] 
+vueJS = ["js/vue.js"]
 
 
-[languages]
-    [languages.en]
-        languagename = "English"
+  ## Set as many as you want.
+  [[params.socialIcons]]
+  icon = "fa-linkedin"
+  title = "Linkedin"
+  url = "#"
 
-        [languages.en.menu]
+  [[params.socialIcons]]
+  icon = "fa-github"
+  title = "GitHub"
+  url = "#"
 
-            [[languages.en.menu.main]]
-            name = "About"
-            weight = 1
-            url = "about/"
+  [[params.socialIcons]]
+  icon = "fa-twitter"
+  title = "Twitter"
+  url = "#"
 
-            [[languages.en.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "post/"
+[menu]
 
-            [[languages.en.menu.main]]
-            name = "Projects"
-            weight = 3
-            url = "projects/"
+  [[menu.main]]
+  name = "Posts"
+  weight = 100
+  identifier = "posts"
+  url = "/posts/"
 
-            [[languages.en.menu.main]]
-            name = "Contact me"
-            weight = 5
-            url = "contact/"
+  [[menu.main]]
+  name = "About"
+  identifier = "about"
+  weight = 300
+  url = "/about/"
+
+  [[menu.main]]
+  name = "Contact"
+  identifier = "contact"
+  weight = 500
+  url = "/contact/"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true # if false, you need to provide you own custom CSS
+  style = "monokai"
+  tabWidth = 4
