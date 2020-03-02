@@ -15,4 +15,4 @@ fields:
   description: slug
   label: Slug
 pages:
-- content/post/welcome-to-my-portfolio.md
+- content/projects/juice-world.md
