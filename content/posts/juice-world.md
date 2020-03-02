@@ -1,7 +1,7 @@
 +++
-draft = true
 slug = "music"
 title = "Juice World"
+type = "post"
 
 +++
 RIP Juice
