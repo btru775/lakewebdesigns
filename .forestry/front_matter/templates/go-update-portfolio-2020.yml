@@ -15,4 +15,5 @@ fields:
   description: slug
   label: Slug
 pages:
+- content/projects/juice-world-1.md
 - content/projects/juice-world.md
