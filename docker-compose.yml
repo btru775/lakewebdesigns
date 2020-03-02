@@ -1,0 +1,4 @@
+hugo:
+  image: jojomi/hugo:latest
+  volumes:
+    - ./:/src
