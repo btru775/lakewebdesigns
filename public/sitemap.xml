@@ -3,59 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:8080/about/</loc>
-    <lastmod>2020-03-01T09:16:26-08:00</lastmod>
+    <loc>https://lakewebdesigns.xyz/about/</loc>
+    <lastmod>2020-03-01T15:44:08-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/about/about/</loc>
-    <lastmod>2020-03-01T09:16:26-08:00</lastmod>
+    <loc>https://lakewebdesigns.xyz/</loc>
+    <lastmod>2020-03-01T15:44:08-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/</loc>
+    <loc>https://lakewebdesigns.xyz/posts/</loc>
     <lastmod>2020-02-29T22:56:28-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/projects/</loc>
+    <loc>https://lakewebdesigns.xyz/projects/</loc>
     <lastmod>2020-02-29T22:56:28-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/contact/</loc>
-    <lastmod>2020-02-29T15:53:57-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/post/</loc>
+    <loc>https://lakewebdesigns.xyz/posts/welcome-to-my-portfolio/</loc>
     <lastmod>2020-02-29T08:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:8080/post/_raury/</loc>
-    <lastmod>2020-02-29T08:00:00+00:00</lastmod>
+    <loc>https://lakewebdesigns.xyz/contact/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8080/post/welcome-to-my-portfolio/</loc>
-    <lastmod>2020-02-29T08:00:00+00:00</lastmod>
+    <loc>https://lakewebdesigns.xyz/categories/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8080/about/baseof/</loc>
+    <loc>https://lakewebdesigns.xyz/posts/music/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:8080/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/series/</loc>
-  </url>
-  
-  <url>
-    <loc>http://localhost:8080/tags/</loc>
+    <loc>https://lakewebdesigns.xyz/tags/</loc>
   </url>
   
 </urlset>

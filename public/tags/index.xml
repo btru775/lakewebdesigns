@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on LakeWebdesigns</title>
-    <link>http://localhost:8080/tags/</link>
-    <description>Recent content in Tags on LakeWebdesigns</description>
+    <title>Tags on Lake Web Designs</title>
+    <link>https://lakewebdesigns.xyz/tags/</link>
+    <description>Recent content in Tags on Lake Web Designs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://localhost:8080/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lakewebdesigns.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

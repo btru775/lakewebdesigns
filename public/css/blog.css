@@ -1,0 +1,32 @@
+body {
+	background-color:#000; /* Murder Black*/
+	color:#f8f8ff;
+}
+
+h1 {
+	color:#FFFF00; /* Banana Yello*/
+}
+
+h3 {
+	color:#32cd32; /* Lime Green*/
+}
+
+h4 {
+	color:#E5E4E2; /* Platinum*/
+}
+
+h5 {
+	color:#552583; /*Lakers Purple */
+}
+
+h6 {
+	color:#FDB927; /*Lakers Gold */
+}
+p {
+	color:#add8e6; /* Sky Blue*/
+}
+
+.post-date {
+	color:#d1001c; /* Blood Orange*/
+}
+

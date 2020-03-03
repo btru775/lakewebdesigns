@@ -1,70 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LakeWebdesigns</title>
-    <link>http://localhost:8080/</link>
-    <description>Recent content on LakeWebdesigns</description>
+    <title>Lake Web Designs</title>
+    <link>https://lakewebdesigns.xyz/</link>
+    <description>Recent content on Lake Web Designs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Feb 2020 22:56:28 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 15:44:08 -0800</lastBuildDate>
     
-	<atom:link href="http://localhost:8080/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lakewebdesigns.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>welcome</title>
-      <link>http://localhost:8080/about/about/</link>
-      <pubDate>Sun, 01 Mar 2020 09:16:26 -0800</pubDate>
+      <title>About</title>
+      <link>https://lakewebdesigns.xyz/about/</link>
+      <pubDate>Sun, 01 Mar 2020 15:44:08 -0800</pubDate>
       
-      <guid>http://localhost:8080/about/about/</guid>
-      <description></description>
+      <guid>https://lakewebdesigns.xyz/about/</guid>
+      <description>I LOVE TO CODE Coding is pimp. I am from Lake Tahoe, been coding since a young &amp;lsquo;n</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:8080/projects/</link>
+      <link>https://lakewebdesigns.xyz/projects/</link>
       <pubDate>Sat, 29 Feb 2020 22:56:28 -0800</pubDate>
       
-      <guid>http://localhost:8080/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact Me</title>
-      <link>http://localhost:8080/contact/</link>
-      <pubDate>Sat, 29 Feb 2020 15:53:57 -0800</pubDate>
-      
-      <guid>http://localhost:8080/contact/</guid>
+      <guid>https://lakewebdesigns.xyz/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to My Portfolio</title>
-      <link>http://localhost:8080/post/_raury/</link>
+      <link>https://lakewebdesigns.xyz/posts/welcome-to-my-portfolio/</link>
       <pubDate>Sat, 29 Feb 2020 08:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/post/_raury/</guid>
-      <description>Welcome To My Portfolio I&amp;rsquo;m Brandon and I like to consider myself a programmer of sorts. Anyway I recently remodeled my portfolio from what it used to be to what it is know. I love to code and recently been into Go but I also love Docker and Javascript and well as Python Django. Stay tuned while I uncover need articles and tutorials of cool shizzniiitt&amp;hellip;
-When Life gives you lemonade turn that shit to limade </description>
-    </item>
-    
-    <item>
-      <title>Welcome to My Portfolio</title>
-      <link>http://localhost:8080/post/welcome-to-my-portfolio/</link>
-      <pubDate>Sat, 29 Feb 2020 08:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:8080/post/welcome-to-my-portfolio/</guid>
-      <description>Welcome To My Portfolio I&amp;rsquo;m Brandon and I like to consider myself a programmer of sorts. Anyway I recently remodeled my portfolio from what it used to be to what it is know. I love to code and recently been into Go but I also love Docker and Javascript and well as Python Django. Stay tuned while I uncover need articles and tutorials of cool shizzniiitt&amp;hellip;
-When Life gives you lemonade turn that shit to limade </description>
+      <guid>https://lakewebdesigns.xyz/posts/welcome-to-my-portfolio/</guid>
+      <description>I&amp;rsquo;m Brandon and I like to consider myself a programmer of sorts.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:8080/about/baseof/</link>
+      <link>https://lakewebdesigns.xyz/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/about/baseof/</guid>
-      <description></description>
+      <guid>https://lakewebdesigns.xyz/contact/</guid>
+      <description>for Vue and our app code, vue.js --   Contact Form Name:  Email  Message ( / )   0&#34;</description>
+    </item>
+    
+    <item>
+      <title>Juice World</title>
+      <link>https://lakewebdesigns.xyz/posts/music/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lakewebdesigns.xyz/posts/music/</guid>
+      <description>RIP Juice
+  </description>
     </item>
     
   </channel>
