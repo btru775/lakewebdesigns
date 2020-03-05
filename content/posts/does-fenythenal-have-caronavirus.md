@@ -1,6 +1,6 @@
 +++
 draft = true
-slug = ""
+slug = "Posts"
 title = "Does Fenythenal have CaronaVirus"
 
 +++
