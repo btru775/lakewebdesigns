@@ -1,5 +1,4 @@
 +++
-draft = true
 slug = "videogames"
 title = "Random Blog"
 
