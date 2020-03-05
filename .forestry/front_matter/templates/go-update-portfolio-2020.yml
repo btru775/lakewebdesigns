@@ -15,6 +15,7 @@ fields:
   description: slug
   label: Slug
 pages:
+- content/home/index-html.md
 - content/posts/juice-world.md
 - content/posts/random-blog.md
 - content/projects/juice-world.md
