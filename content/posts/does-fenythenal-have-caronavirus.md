@@ -6,4 +6,4 @@ title = "Does Fenythenal have CaronaVirus"
 +++
 ## Feyntanly and caronavirus?
 
-T
+ What if everyone getting sick was a coke head? 
