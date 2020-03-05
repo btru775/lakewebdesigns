@@ -1,5 +1,5 @@
 +++
-slug = ""
+slug = "posts"
 title = "Random Blog"
 
 +++
