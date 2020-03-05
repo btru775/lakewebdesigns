@@ -3,7 +3,7 @@ slug = ""
 title = "Random Blog"
 
 +++
-# Hello Everybody,
+## Hello Everybody,
 
 Being a gamer is the shit. There are some good games coming out. Final Fantasy 7 and Cyberpunk.
 
