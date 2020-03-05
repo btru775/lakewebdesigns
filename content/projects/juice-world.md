@@ -4,8 +4,6 @@ slug = "Music"
 title = "Juice World "
 
 +++
-RIP Juice 
+RIP Juice
 
-{{< youtube mzB1VGEGcSU >}}
-
-{{< youtube w7Ft2ymGmfc >}}
+{{< youtube 3qFvCPmee8U >}}
