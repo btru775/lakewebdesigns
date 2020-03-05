@@ -1,6 +1,6 @@
 +++
 slug = ""
-title = "index.html"
+title = "index"
 
 +++
 #### Testing
