@@ -1,9 +1,8 @@
 ---
-title: "About"
-date: 2020-03-01T15:44:08-08:00
-draft: true
----
+title: About
+date: 2020-03-01T23:44:08.000+00:00
 
+---
 ### I LOVE TO CODE
 
 ![Pimpn](https://rlv.zcache.com/pimpin_ho_sale_poster-r6a3cf85f43234f4f8918e0a694277b7d_wvy_8byvr_307.jpg "Code Pimpn")
@@ -39,4 +38,3 @@ I put this portfolio together to be able to create a platform to show how I solv
 ###### Lets code together,
 
 ##### Brandon
-
