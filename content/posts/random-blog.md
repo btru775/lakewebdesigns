@@ -23,7 +23,7 @@ Now when I see mofos  I be staying away from them like they looked like **These 
 
 ![Fido](https://tvguide1.cbsistatic.com/feed/1/135/thumbs/96724135_1300x1733.jpg "I am CaronaVirus")
 
-> > ### Carona Virus is Scary Shit!!
+> ### Carona Virus is Scary Shit!!
 
 Anyway, on a more positive note. Weathers getting better. I'm about to got to the beach and lounge out, tired of being tired could use a break.
 
