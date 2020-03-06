@@ -1,5 +1,5 @@
 +++
-slug = "Posts"
+slug = ""
 title = "Does Fenythenal have CaronaVirus"
 
 +++
