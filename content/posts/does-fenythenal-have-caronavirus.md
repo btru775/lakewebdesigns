@@ -9,4 +9,4 @@ What if some people getting sick were blo heads? Could fentanyl laced coke have 
 
 ![](http://www.freakingnews.com/pictures/99000/Al-Pacino-Egghead-in-Scarface--99119.jpg)
 
-{{ youtube  }}
+* 
