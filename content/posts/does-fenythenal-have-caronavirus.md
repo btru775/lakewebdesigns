@@ -1,4 +1,5 @@
 +++
+date = 2020-03-11T07:00:00Z
 slug = "thoughts "
 title = "Does Fenythenal have CaronaVirus"
 type = "post"
