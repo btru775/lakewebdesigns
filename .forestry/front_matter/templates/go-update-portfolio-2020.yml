@@ -14,6 +14,21 @@ fields:
     required: false
   description: slug
   label: Slug
+- name: type
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - page
+    - post
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Type
+  description: Type of Post, Page
 pages:
 - content/home/index-html.md
 - content/posts/does-fenythenal-have-caronavirus.md
