@@ -8,12 +8,15 @@ fields:
     required: false
   label: Title
   description: Title
-- name: slug
-  type: text
+- name: date
+  type: datetime
+  label: Date
+  description: Date
   config:
     required: false
-  description: slug
-  label: Slug
+    date_format: 
+    time_format: 
+    display_utc: false
 - name: type
   type: select
   default: ''
@@ -29,15 +32,12 @@ fields:
       path: 
   label: Type
   description: Type of Post, Page
-- name: date
-  type: datetime
-  label: Date
-  description: Date
+- name: slug
+  type: text
   config:
     required: false
-    date_format: 
-    time_format: 
-    display_utc: false
+  description: slug
+  label: Slug
 pages:
 - content/home/index-html.md
 - content/posts/does-fenythenal-have-caronavirus.md
