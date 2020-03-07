@@ -1,6 +1,5 @@
 +++
 date = 2020-03-02T08:00:00Z
-draft = true
 slug = "web"
 title = "Setting up an email server on a Raspberry Pi"
 type = "post"
