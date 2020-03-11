@@ -40,5 +40,6 @@ fields:
   label: Slug
 pages:
 - content/home/index-html.md
+- content/posts/po-33-and-arcade.md
 - content/posts/random-blog.md
 - content/posts/setting-up-an-email-server-on-a-raspberry-pi.md
