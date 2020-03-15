@@ -9,6 +9,8 @@ type = "post"
 
 Books will be available soon.Stay tuned!!
 
-    
-    {{< vimeo 397349432 >}}
-    
+{{< vimeo 397349432 >}}
+
+This website is pretty legit. 
+
+[www.pandemic.news](www.pandemic.news "Pandemic News")
