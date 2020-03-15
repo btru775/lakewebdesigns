@@ -13,4 +13,4 @@ Books will be available soon.Stay tuned!!
 
 This website is pretty legit. 
 
-[www.pandemic.news](www.pandemic.news "Pandemic News")
+[www.pandemic.news](https://www.pandemic.news "Pandemic News")
