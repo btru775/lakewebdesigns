@@ -1,16 +1,8 @@
 +++
-date = 2020-03-12T07:00:00Z
+date = 2020-04-13T01:00:00Z
 slug = "facts"
-title = "C0Nv1D***!9***"
+title = "TO BE DETERMINED"
 type = "post"
 
 +++
-### Dropping Facts, stay smart and listen to your gut not the media!! .
-
-Books will be available soon.Stay tuned!!
-
-{{< vimeo 397349432 >}}
-
-This website is pretty legit. 
-
-[www.pandemic.news](https://www.pandemic.news "Pandemic News")
+# COME BACK SOON!!
