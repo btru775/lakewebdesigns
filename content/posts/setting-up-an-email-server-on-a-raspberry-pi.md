@@ -1,6 +1,6 @@
 +++
 date = 2020-03-07T17:00:00Z
-slug = "web"
+slug = "raspberryemail"
 title = "Setting up an email server on a Raspberry Pi"
 type = "post"
 
