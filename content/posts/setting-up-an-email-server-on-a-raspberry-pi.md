@@ -10,3 +10,5 @@ type = "post"
 I setup an email account on my raspberry pi. I found this blog
 
 [https://habilisbest.com/raspberry-pi-as-personal-email-server](https://habilisbest.com/raspberry-pi-as-personal-email-server "here")
+
+![](/images/email.png "Pic")
