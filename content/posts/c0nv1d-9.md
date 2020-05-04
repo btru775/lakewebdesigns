@@ -1,6 +1,6 @@
 +++
 date = 2020-05-04T21:00:00Z
-slug = "web"
+slug = "trumpsite"
 title = "Golang Trump Website"
 type = "post"
 
