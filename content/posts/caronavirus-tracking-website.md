@@ -1,6 +1,5 @@
 +++
 date = 2020-03-16T07:00:00Z
-draft = true
 slug = ""
 title = "CaronaVirus Tracking Website"
 type = "post"
