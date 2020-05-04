@@ -1,6 +1,6 @@
 +++
 date = 2020-03-16T07:00:00Z
-slug = "web"
+slug = "coronasite"
 title = "CaronaVirus Tracking Website"
 type = "post"
 
