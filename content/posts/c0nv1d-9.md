@@ -15,6 +15,6 @@ from scratch and launched it. The site is still a work in progress, needs basic 
 
 The site is 100% GO and Docker which is really cool. You have to refresh it but every time you do and random quote or saying from Donald Trump will emerge. I don't mean to offend but if you are offended then this is not for you!:)
 
-\[http://66.42.105.142:81\] (http://66.42.105.142:81 "Trumptarded")
+<a href="http://66.42.105.142:81">Trumptarded</a>
 
 Check it out!!
