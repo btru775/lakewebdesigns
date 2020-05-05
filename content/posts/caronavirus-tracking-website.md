@@ -11,6 +11,6 @@ I published a Carona-Virus Tracking website. The website is made out of Javascri
 
 ![](https://images.news18.com/ibnlive/uploads/2020/03/Untitled-design-2020-03-07T135612.656.png)
 
-\[Covstats\](https://covstats.xyz "Covstats.xyz")
+https://covstats.xyz
 
 Check it out!!
